@@ -1,1 +1,1 @@
-var words = ['andy', 'aidan'];
+window.words = ['andy', 'aidan'];
